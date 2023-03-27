@@ -2,8 +2,6 @@
 
 Application for movie lovers who want to be up to date. Home page shows 20 the most popular results, which users can add to the "queued" library and later move them to the "watched" one. To use that opportunity you need to create an account. 
 
-Don't have any idea what you want to watch? No worries, try draw! Our website will show you 20 random outcomes, click on the poster and read some details. 
-
 Website created with HTML5, CSS3 / SASS, JavaScript and the Movie Database API. 
 
 https://TomGrzybowski.github.io/GoIT-Js-Project-Group-5
