@@ -1,6 +1,6 @@
 # Filmoteka
 
-Application for movie lovers who want to be up to date. Home page shows 20 the most popular results, which users can add to the "queued" library and later move them to the "watched" one. To use that opportunity you need to create an account. 
+Application for movie lovers who want to be up to date. Home page shows 20 the most popular results, which users can add to the "queued" library and later move them to the "watched" one.
 
 Website created with HTML5, CSS3 / SASS, JavaScript and the Movie Database API. 
 
